@@ -1,15 +1,33 @@
 {
-  "name": "Wallids-Cybersecurity",
-  "version": "1.0.0",
+  "name": "@wallids/waf",
+  "version": "1.0.1",
   "description": "Wallids Cybersecurity Layer",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/wallidslabs/nodejs",
+    "url": "git+https://github.com/wallidslabs/nodejs.git",
     "type": "git"
   },
   "author": "Wallids LABS",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wallidslabs/nodejs/issues"
+  },
+  "homepage": "https://github.com/wallidslabs/nodejs#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Wallids",
+    "cybersecurity",
+    "nodejs",
+    "node",
+    "security",
+    "api",
+    "security",
+    "server-side",
+    "security"
+  ]
 }
