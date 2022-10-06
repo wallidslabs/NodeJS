@@ -1,0 +1,15 @@
+{
+  "name": "Wallids-Cybersecurity",
+  "version": "1.0.0",
+  "description": "Wallids Cybersecurity Layer",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/wallidslabs/nodejs",
+    "type": "git"
+  },
+  "author": "Wallids LABS",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
