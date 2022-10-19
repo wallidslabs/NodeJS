@@ -29,6 +29,7 @@ function wallids(options) {
     var logRequestModel = {
         secretKey: options.secretKey,
         info: {
+            isMonitoring: useMonitoring,
             url: "",
             requestType: "",
             request: "",
